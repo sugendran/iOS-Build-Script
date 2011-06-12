@@ -1,7 +1,7 @@
 #!/bin/sh
 # A script to build your iOS app and send it to test flight
 # Distributed on an as is and I accept no responsiblity for what it does licence
-#
+# For more info: http://www.abandonedexpression.com/2011/06/continuous-integration-with-xcode.html
 
 # I'm assuming that your project is in the src directory of your repository
 PROJECT_DIRECTORY="${PWD}/src"
